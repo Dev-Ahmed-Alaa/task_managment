@@ -30,3 +30,5 @@ public_html/hot
 # Additional Laravel specific
 /storage/pail
 .phpactor.json
+
+/.history
